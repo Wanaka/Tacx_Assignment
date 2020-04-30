@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tacx_Assignment</string>
+    <string name="favourite">Favourite</string>
+    <string name="link">Link</string>
+    <string name="delete">Delete</string>
+    <string name="file">File</string>
+    <string name="documents">documents</string>
+
+</resources>

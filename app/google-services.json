@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891399316320",
+    "firebase_url": "https://tacxassignment.firebaseio.com",
+    "project_id": "tacxassignment",
+    "storage_bucket": "tacxassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891399316320:android:6c7d9cfc5ac9a24a48b405",
+        "android_client_info": {
+          "package_name": "com.example.tacx_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891399316320-8376ld8a1rd4h655ho6q4cmv80erj287.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tacx_assignment",
+            "certificate_hash": "199f28ab37863261d8394c9a49e5a21eb2731203"
+          }
+        },
+        {
+          "client_id": "891399316320-5jiv872it3poah3cdl62bid8l7a26sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5a0Hll15DAq4Aj6lP0ZPx4inFddtl-v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891399316320-5jiv872it3poah3cdl62bid8l7a26sng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
